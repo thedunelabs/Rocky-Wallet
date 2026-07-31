@@ -1,0 +1,12 @@
+{
+  "name": "rocky-wallet-document",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Rocky Wallet user and DApp developer documentation.",
+  "scripts": {
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
